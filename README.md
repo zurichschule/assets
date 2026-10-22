@@ -1,7 +1,7 @@
 # assets · Zürich Schule Barcelona
 
 Recursos públicos y fijos que usan los correos y documentos del colegio (logos, etc.).
-Se sirven en https://assets.zsbarcelona.com/
+Se sirven en https://zurichschule.github.io/assets/ (más adelante, con dominio propio).
 
 **No subir aquí nada que no sea público** (este repositorio es público).
 
